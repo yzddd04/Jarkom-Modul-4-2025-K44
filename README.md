@@ -10,6 +10,7 @@
 Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
 Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau sebaliknya
 
+# CIDR
 ## Gambar Topologi CIDR 
 Berikut gambar topologi GNS3 (CIDR)
 ![GambarTree](Gambar_Tree_CIDR.jpg)
@@ -49,8 +50,10 @@ Berikut gambar topologi GNS3 (CIDR)
 ## Penggabungan - CIDR (IX)
 ![gambarpembagian9](Penggabungan9CIDR.png)
 
+# VLSM
 ## Gambar Tree VLSM
 
-
+## Pembagian IP VLSM
+![gambarpembagianIPVLSM]()
 
 
