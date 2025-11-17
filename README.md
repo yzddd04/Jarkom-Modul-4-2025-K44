@@ -10,6 +10,12 @@
 Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhitungan CLASSLESS yang berbeda.
 Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau sebaliknya
 
+## Gambar Tree CIDR 
+
+
+
+
+## Gambar Tree VLSM
 
 
 
