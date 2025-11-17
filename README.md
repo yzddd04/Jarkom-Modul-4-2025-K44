@@ -11,7 +11,7 @@ Soal shift dikerjakan pada Cisco Packet Tracer dan GNS3 menggunakan metode perhi
 Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau sebaliknya
 
 ## Gambar Tree CIDR 
-![GambarTree](Gambar_Tree_CIDR.png)
+![GambarTree]([Gambar_Tree_CIDR.png](https://github.com/yzddd04/Jarkom-Modul-4-2025-K44/blob/acd52651c13c0b01341fecbf63b93d7d52cf39a3/Gambar_Tree_CIDR.jpg))
 
 
 
