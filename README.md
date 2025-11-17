@@ -56,4 +56,5 @@ Berikut gambar topologi GNS3 (CIDR)
 ## Pembagian IP VLSM
 ![gambarpembagianIPVLSM](PembagianIPVLSMPART1.png)
 
-
+![gambarpembagianIPVLSM](PembagianIPVLSMPART2.png)
+![gambarpembagianIPVLSM](PembagianIPVLSMPART2.png)
