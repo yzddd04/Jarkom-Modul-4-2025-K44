@@ -44,7 +44,7 @@ Berikut gambar topologi GNS3 (CIDR)
 ![gambarpembagian7](Penggabungan7CIDR.png)
 
 ## Penggabungan - CIDR (VIII)
-![gambarpembagian8](Penggabungan7CIDR.png)
+![gambarpembagian8](Penggabungan8CIDR.png)
 
 ## Penggabungan - CIDR (IX)
 ![gambarpembagian9](Penggabungan7CIDR.png)
