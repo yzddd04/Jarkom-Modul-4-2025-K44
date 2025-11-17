@@ -57,4 +57,4 @@ Berikut gambar topologi GNS3 (CIDR)
 ![gambarpembagianIPVLSM](PembagianIPVLSMPART1.png)
 
 ![gambarpembagianIPVLSM](PembagianIPVLSMPART2.png)
-![gambarpembagianIPVLSM](PembagianIPVLSMPART2.png)
+![gambarpembagianIPVLSM](PembagianIPVLSMPART3.png)
