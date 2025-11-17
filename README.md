@@ -15,7 +15,7 @@ Berikut gambar topologi GNS3 (CIDR)
 ![GambarTree](Gambar_Tree_CIDR.jpg)
 
 ## Gambar Tree CIDR
-![GambarTree](Gambar_Tree_CIDR.jpg)
+![GambarTree](Tree_CIDR.jpg)
 
 ## Pembagian IP-CIDR
 ![GambarPembagianCIDR](Pembagian_CID.png)
