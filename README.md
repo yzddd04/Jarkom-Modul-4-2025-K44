@@ -14,14 +14,21 @@ Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau seb
 Berikut gambar topologi GNS3 (CIDR)
 ![GambarTree](Gambar_Tree_CIDR.jpg)
 
+## Pembagian IP-CIDR
+![GambarPembagianCIDR](Pembagian_CID.png)
+
 ## Penggabungan - CIDR (I)
 ![gambarpembagian](Pembagian1.png)
+
+
+## Penggabungan - CIDR (II)
+![gambarpembagian](Pembagian1.png)
+
 
 ## Gambar Tree CIDR
 ![GambarTree](Tree_CIDR.jpg)
 
-## Pembagian IP-CIDR
-![GambarPembagianCIDR](Pembagian_CID.png)
+
 
 ## Gambar Tree VLSM
 
