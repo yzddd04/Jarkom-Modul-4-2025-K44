@@ -47,7 +47,7 @@ Berikut gambar topologi GNS3 (CIDR)
 ![gambarpembagian8](Penggabungan8CIDR.png)
 
 ## Penggabungan - CIDR (IX)
-![gambarpembagian9](Penggabungan7CIDR.png)
+![gambarpembagian9](Penggabungan9CIDR.png)
 
 ## Gambar Tree VLSM
 
